@@ -203,7 +203,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5ipQD0PV4N8gilD_4Z1T-29" value="Status Update" style="whiteSpace=wrap;strokeWidth=2;" parent="5ipQD0PV4N8gilD_4Z1T-87" vertex="1">
-          <mxGeometry x="231.5" y="512.7537187382179" width="161" height="59.91780821917808" as="geometry" />
+          <mxGeometry x="231.5" y="502.7537187382179" width="161" height="59.91780821917808" as="geometry" />
         </mxCell>
         <mxCell id="5ipQD0PV4N8gilD_4Z1T-30" value="Vacuum" style="whiteSpace=wrap;strokeWidth=2;" parent="5ipQD0PV4N8gilD_4Z1T-87" vertex="1">
           <mxGeometry x="254" y="720.8269775040844" width="115" height="59.91780821917808" as="geometry" />
